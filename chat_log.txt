@@ -1,0 +1,12 @@
+You: ai
+Bot: Artificial Intelligence is the simulation of human intelligence in machines that are programmed to think and learn like humans.
+
+You: python
+Bot: Python is a high-level programming language known for its simplicity and readability, widely used in AI and data science.
+
+You: c
+Bot: I'd be happy to help! You can ask me about chatbots, AI, machine learning, Python programming, or NLTK.
+
+You: quit
+Bot: Goodbye! Have a great day!
+

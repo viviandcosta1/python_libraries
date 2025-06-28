@@ -1,0 +1,35 @@
+
+
+--- Chat Session started at 2025-06-28 11:55:57.138845 ---
+
+User: what is ai
+Bot: I couldn’t find anything on that topic. Try rephrasing your question.
+
+User: what is artificial intellegency
+Bot: I couldn’t find anything on that topic. Try rephrasing your question.
+
+User: enginnering
+Bot: Engineering is the practice of using natural science, mathematics, and the engineering design process to solve problems within technology, increase efficiency and productivity, and improve systems. Modern engineering comprises many subfields which include designing and improving infrastructure, machinery, vehicles, electronics, materials, and energy systems.
+
+User: bsc
+Bot: Your question is too broad. Did you mean one of these: Before Christ, British Columbia, Baja California, Propaganda, B.C. (comic strip)?
+
+User: batchlor of science
+Bot: A Bachelor of Science (BS, BSc, B.S., B.Sc., SB, or ScB; from the Latin scientiae baccalaureus) is a bachelor's degree that is awarded for programs that generally last three to five years.
+The first university to admit a student to the degree of Bachelor of Science was the University of London in 1860.
+
+User: puc
+Bot: Your question is too broad. Did you mean one of these: Penbay International Circuit, Pic River, Picayune (Amtrak station), Pictor, Pacific island countries?
+
+User: india
+Bot: Your question is too broad. Did you mean one of these: India, Indian people, Indian diaspora, Languages of India, Indian English?
+
+User: india country
+Bot: India, officially the Republic of India, is a country in South Asia.  It is the seventh-largest country by area; the most populous country since 2023; and, since its independence in 1947, the world's most populous democracy.
+
+User: artificial intellegency
+Bot: Artificial intelligence (AI) is the capability of computational systems to perform tasks typically associated with human intelligence, such as learning, reasoning, problem-solving, perception, and decision-making. It is a field of research in computer science that develops and studies methods and software that enable machines to perceive their environment and use learning and intelligence to take actions that maximize their chances of achieving defined goals.
+
+User: html
+Bot: HTTP (Hypertext Transfer Protocol) is an application layer protocol in the Internet protocol suite model for distributed, collaborative, hypermedia information systems. HTTP is the foundation of data communication for the World Wide Web, where hypertext documents include hyperlinks to other resources that the user can easily access, for example by a mouse click or by tapping the screen in a web browser.
+
