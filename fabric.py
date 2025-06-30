@@ -1,4 +1,4 @@
-# Fabric Chatbot - Input Output Format
+
 
 def fabric_chatbot():
     fabric_knowledge = {
@@ -20,7 +20,7 @@ def fabric_chatbot():
         user_input = input("You: ").lower().strip()
 
         if user_input in ["exit", "quit", "bye"]:
-            print("Bot: Goodbye! 👋 Stay stylish!")
+            print("Bot: Goodbye! 👋 Stay cool!")
             break
         elif user_input in fabric_knowledge:
             print("Bot:", fabric_knowledge[user_input])
