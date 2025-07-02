@@ -11,7 +11,7 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
 class ContextualChatbot:
-    def _init_(self):
+    def __init__(self):
         self.lemmatizer = WordNetLemmatizer()
         self.stop_words = set(stopwords.words('english'))
         
@@ -68,7 +68,7 @@ class ContextualChatbot:
         
         # Find best matching sentence
         best_score = 0
-        best_response = "I'm sorry, I don't have information about that. Try asking about AI, programming, Python, or chatbots."
+        best_response = "I'm sorry, I don't have information about that. Try asking about AI, programming, Python, or chatbots😒."
         
         for sentence in self.sentences:
             score = self.similarity(user_input, sentence)
@@ -86,7 +86,7 @@ class ContextualChatbot:
     def chat(self):
         """Main chat loop"""
         print("🤖 NLTK Contextual Chatbot")
-        print("=" * 40)
+        print("=" *40)
         print("Hi! Ask me about AI, programming, or technology.")
         print("Type 'quit' to exit.\n")
         
